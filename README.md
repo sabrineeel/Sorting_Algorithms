@@ -15,5 +15,6 @@ This mini-project explores several sorting algorithms, detailing their functiona
 
 5-Heap Sort
 ## 👥 Contributors
-Mesghi Alea
-Nait Chérif Sabrinel
+-Mesghi Alea
+
+-Nait Chérif Sabrinel
